@@ -14,3 +14,5 @@ I have used some skills of HTML that i learned in Odin Project where consists of
 ---
 
 All recipes are from [Allrecipes](https://www.allrecipes.com).
+
+Project from [The Odin Project](https://www.theodinproject.com/)
